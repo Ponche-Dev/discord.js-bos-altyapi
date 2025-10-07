@@ -1,5 +1,5 @@
 module.exports = client => {
-    client.user.setPresence({activity: {name: "Developed By Ponche#6600", type: "PLAYING"}, status: "idle"});
+    client.user.setPresence({activity: {name: "Developed By AnılK", type: "PLAYING"}, status: "idle"});
 };
 
 //---------------------------------------------------

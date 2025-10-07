@@ -3,5 +3,6 @@ module.exports = client => {
 };
 
 //---------------------------------------------------
-//type: PLAYING, WATCHING
-//status: online, idle, dnd 
+//type: PLAYING, WATCHING !!!! Sağdaki değerler Oynuyor/İzliyor
+//status: online, idle, dnd  !!!! Sırasıyla: Çevrimiçi, Boşta, Rahatsız Etmeyin
+// Name kısmını istediğiniz gibi ayarlayabilirsiniz, Type/Status değerlerini yukarıdaki değerlerden başka girmeyin.
